@@ -1,5 +1,4 @@
 <h1>STOCK MANAGER</h1>
-<br>
 <h2>*****************************<br>
     ***   Code Expectations   ***<br>
     *****************************</h2>
@@ -8,7 +7,6 @@
         <li>Authorty contol</li>
         <li>Calendar activities control</li>
    </ul>
-<br>
 <h3>*****************************<br>
     ***       Starting      *****<br>
     *****************************</h3>
